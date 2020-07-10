@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": false,
+    "python.pythonPath": "c:\\Users\\chand\\weather_app\\env\\Scripts\\python.exe"
+}
